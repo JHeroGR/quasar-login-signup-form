@@ -33,5 +33,9 @@ The purpose of this template is to simplify a beginner or seasoned programmer's 
 
 <hr>
 
+
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js), I used material-icons as the iconSet.
+
+### Note
+You are allowed to fork my template, you're more than welcome to give me suggestions to add to make it more beginner friendly. I will be working on improving this starter project meanwhile, feel free to download it and mess with it, for now, it is my first release. If you decide to use this template for your project, do please tag me in your project. Feedback is appreciated.
